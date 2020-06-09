@@ -1,0 +1,2 @@
+Le code se situe dans src/fr.herrsverige.whiteomg !
+La class LauncherPanel est la plus importante !
